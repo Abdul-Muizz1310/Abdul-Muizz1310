@@ -49,18 +49,16 @@ My engineering philosophy centers on building functional, resilient, and unbreak
 <br/>  
 
 
-## Github Stats
-<div style="display: flex; max-width: 100%;">
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<div style="display: flex; max-width: 50%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Muizz1310&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</div>
-  
-<div style="display: flex; max-width: 50%;">
-<img src="https://github-readme-stats.vercel.app/api?username=Abdul-Muizz1310&show_icons=true&count_private=true&hide_border=true" align="right" />
-</div>  
-</div>
 
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Abdul-Muizz1310&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+
+</td></tr></table>  
 
 <br/>  
 
