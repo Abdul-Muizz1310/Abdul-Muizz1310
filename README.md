@@ -44,22 +44,22 @@ My engineering philosophy centers on building functional, resilient, and unbreak
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>  
 
 <br/>  
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Muizz1310&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</div>
+<div valign="top" width="50%">
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Abdul-Muizz1310&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
 
-</td></tr></table>  
+</div>  
 
 <br/>  
 
