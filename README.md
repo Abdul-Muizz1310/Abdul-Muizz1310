@@ -46,23 +46,6 @@ My engineering philosophy centers on building functional, resilient, and unbreak
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Muizz1310&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=Abdul-Muizz1310&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Currently Listening  
 ![Listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31apfpnymibmfv7npuutpceuhnum&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 <br />
